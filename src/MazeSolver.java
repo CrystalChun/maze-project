@@ -1,6 +1,7 @@
 import java.util.*;
 import java.awt.Point;
 import java.io.*;
+
 /**
  * This class interacts with the user, allowing them to choose a maze and then
  * choose a solver (either BFS or DFS) for the maze, or to solve it themselves.
